@@ -1,0 +1,7 @@
+unnamed package
+com.lebovich.diary.appui.forms
+com.lebovich.diary.appui.views
+com.lebovich.diary.domain.uow
+com.lebovich.diary.domain.validators
+com.lebovich.diary.persistence.entitys
+com.lebovich.diary.persistence.repository

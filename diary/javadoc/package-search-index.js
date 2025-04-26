@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.lebovich.diary.appui.forms"},{"l":"com.lebovich.diary.appui.views"},{"l":"com.lebovich.diary.domain.uow"},{"l":"com.lebovich.diary.domain.validators"},{"l":"com.lebovich.diary.persistence.entitys"},{"l":"com.lebovich.diary.persistence.repository"}];updateSearchResults();
