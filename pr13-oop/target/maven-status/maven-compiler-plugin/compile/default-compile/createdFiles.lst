@@ -1,0 +1,11 @@
+com\grud\util\ConnectionManager.class
+com\grud\app\Main.class
+com\grud\dao\UserDao.class
+com\grud\exception\DaoException.class
+com\grud\util\ValidatorUtil.class
+com\grud\app\SpringConfig.class
+com\grud\entity\Role.class
+com\grud\util\PropertiesUtil.class
+com\grud\entity\Post.class
+com\grud\entity\User.class
+com\grud\entity\Comment.class
